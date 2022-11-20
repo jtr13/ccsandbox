@@ -4,8 +4,7 @@ Title: Does not matter
 Version: 0.0.0.9000
 Imports:
     emo,
-    tidyverse,
-    googlesheets4
+    tidyverse
 Suggests:
     bookdown,
     bslib,
