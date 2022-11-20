@@ -9,7 +9,4 @@ This chapter gives a sample layout of your `Rmd` file.
 ## Test googlesheets4
 
 ```{r}
-library(googlesheets4)
-gs4_deauth()
-as.data.frame(read_sheet("https://docs.google.com/spreadsheets/d/198TOYrrXLtUWA3WpRHrch1CBjml0a-pTEdGPXNxqr3U/edit#gid=890543988"))
 ```
