@@ -5,7 +5,10 @@ Version: 0.0.0.9000
 Imports:
     emo,
     tidyverse,
-    rgl
+    rgl,
+    plotly,
+    anglr,
+    maptools
 Suggests:
     bookdown,
     bslib,
@@ -13,4 +16,5 @@ Suggests:
     withr,
     xml2
 Remotes:
-    hadley/emo
+    hadley/emo,
+    hypertidy/anglr
